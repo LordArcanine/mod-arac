@@ -1,7 +1,7 @@
 /*
 
 This query allows you to copy information from a specific breed to add new information.
-In this example, the code copies the information from RACE 1 (Human) to add it to breed 12 (Fel'Orc).
+In this example, the code copies the information from RACE 1 (Human) to add it to race 12 (Fel'Orc).
 
 */
 
