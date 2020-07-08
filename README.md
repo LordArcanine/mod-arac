@@ -18,8 +18,6 @@
 
 - Apply the sql patches
 
-**_- You should never apply a SQL file without making a backup! Please make a Backup of your DB !_**
-
 - Update your DBC files (client and server) contained in the release, so add **Patch-A.MPQ** to your WoW/Data/ directory and update the DBC files in your server/data/dbc/ directory.
 
 # Need help?
